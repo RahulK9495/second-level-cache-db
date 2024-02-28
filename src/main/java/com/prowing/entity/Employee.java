@@ -23,6 +23,7 @@ public class Employee {
 	@Column
 	private double salary;
 
+	
 	public Employee() {
 		super();
 		// TODO Auto-generated constructor stub
